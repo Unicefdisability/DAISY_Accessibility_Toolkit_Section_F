@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="CHECK 5: Set up the meeting rooms and cafes with flexible tables and chairs" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION F: ORGANIZATION OF ACCESSIBLE EVENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_5020">
+				<text src="toolkit_f.html#d2e1302" id="txt_5020" />
+			</par>
+			<par endsync="last" id="par_5021">
+				<text src="toolkit_f.html#id_667" id="txt_5021" />
+			</par>
+			<par endsync="last" id="par_5022">
+				<text src="toolkit_f.html#id_668" id="txt_5022" />
+			</par>
+			<par endsync="last" id="par_5023">
+				<text src="toolkit_f.html#id_669" id="txt_5023" />
+			</par>
+			<par endsync="last" id="par_5024">
+				<text src="toolkit_f.html#id_670" id="txt_5024" />
+			</par>
+			<par endsync="last" id="par_5025">
+				<text src="toolkit_f.html#id_671" id="txt_5025" />
+			</par>
+			<par endsync="last" id="par_5026">
+				<text src="toolkit_f.html#p33" id="txt_5026" />
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Technical accessibility standards" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION F: ORGANIZATION OF ACCESSIBLE EVENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_4781">
+				<text src="toolkit_f.html#d2e710" id="txt_4781" />
+			</par>
+			<par endsync="last" id="par_4782">
+				<text src="toolkit_f.html#id_360" id="txt_4782" />
+			</par>
+			<par endsync="last" id="par_4783">
+				<text src="toolkit_f.html#id_361" id="txt_4783" />
+			</par>
+			<par endsync="last" id="par_4784">
+				<text src="toolkit_f.html#id_363" id="txt_4784" />
+			</par>
+			<par endsync="last" id="par_4785">
+				<text src="toolkit_f.html#noteref_6" id="txt_4785" />
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="CHECK 3: Inform presenters in advance about accessibility and provide materials in accessible formats" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION F: ORGANIZATION OF ACCESSIBLE EVENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_4998">
+				<text src="toolkit_f.html#d2e1252" id="txt_4998" />
+			</par>
+			<par endsync="last" id="par_4999">
+				<text src="toolkit_f.html#id_641" id="txt_4999" />
+			</par>
+			<par endsync="last" id="par_5000">
+				<text src="toolkit_f.html#id_642" id="txt_5000" />
+			</par>
+			<par endsync="last" id="par_5001">
+				<text src="toolkit_f.html#id_643" id="txt_5001" />
+			</par>
+			<par endsync="last" id="par_5002">
+				<text src="toolkit_f.html#id_644" id="txt_5002" />
+			</par>
+			<par endsync="last" id="par_5003">
+				<text src="toolkit_f.html#id_646" id="txt_5003" />
+			</par>
+			<par endsync="last" id="par_5004">
+				<text src="toolkit_f.html#id_648" id="txt_5004" />
+			</par>
+			<par endsync="last" id="par_5005">
+				<text src="toolkit_f.html#id_649" id="txt_5005" />
+			</par>
+			<par endsync="last" id="par_5006">
+				<text src="toolkit_f.html#id_650" id="txt_5006" />
+			</par>
+			<par endsync="last" id="par_5007">
+				<text src="toolkit_f.html#id_651" id="txt_5007" />
+			</par>
+			<par endsync="last" id="par_5008">
+				<text src="toolkit_f.html#id_652" id="txt_5008" />
+			</par>
+			<par endsync="last" id="par_5009">
+				<text src="toolkit_f.html#id_654" id="txt_5009" />
+			</par>
+			<par endsync="last" id="par_5010">
+				<text src="toolkit_f.html#noteref_13" id="txt_5010" />
+			</par>
+			<par endsync="last" id="par_5011">
+				<text src="toolkit_f.html#id_656" id="txt_5011" />
+			</par>
+			<par endsync="last" id="par_5012">
+				<text src="toolkit_f.html#p32" id="txt_5012" />
+			</par>
+		</seq>
+	</body>
+</smil>

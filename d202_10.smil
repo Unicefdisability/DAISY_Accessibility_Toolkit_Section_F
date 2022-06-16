@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="Frameworks and approaches" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION F: ORGANIZATION OF ACCESSIBLE EVENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_4714">
+				<text src="toolkit_f.html#d2e521" id="txt_4714" />
+			</par>
+			<par endsync="last" id="par_4715">
+				<text src="toolkit_f.html#id_264" id="txt_4715" />
+			</par>
+			<par endsync="last" id="par_4716">
+				<text src="toolkit_f.html#id_266" id="txt_4716" />
+			</par>
+			<par endsync="last" id="par_4717">
+				<text src="toolkit_f.html#noteref_1" id="txt_4717" />
+			</par>
+			<par endsync="last" id="par_4718">
+				<text src="toolkit_f.html#id_267" id="txt_4718" />
+			</par>
+			<par endsync="last" id="par_4719">
+				<text src="toolkit_f.html#id_268" id="txt_4719" />
+			</par>
+			<par endsync="last" id="par_4720">
+				<text src="toolkit_f.html#id_269" id="txt_4720" />
+			</par>
+			<par endsync="last" id="par_4721">
+				<text src="toolkit_f.html#id_270" id="txt_4721" />
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="CHECK 4: Identify staff or volunteers to support people during events" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION F: ORGANIZATION OF ACCESSIBLE EVENTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_5013">
+				<text src="toolkit_f.html#d2e1286" id="txt_5013" />
+			</par>
+			<par endsync="last" id="par_5014">
+				<text src="toolkit_f.html#id_658" id="txt_5014" />
+			</par>
+			<par endsync="last" id="par_5015">
+				<text src="toolkit_f.html#id_660" id="txt_5015" />
+			</par>
+			<par endsync="last" id="par_5016">
+				<text src="toolkit_f.html#noteref_14" id="txt_5016" />
+			</par>
+			<par endsync="last" id="par_5017">
+				<text src="toolkit_f.html#id_662" id="txt_5017" />
+			</par>
+			<par endsync="last" id="par_5018">
+				<text src="toolkit_f.html#noteref_15" id="txt_5018" />
+			</par>
+			<par endsync="last" id="par_5019">
+				<text src="toolkit_f.html#id_664" id="txt_5019" />
+			</par>
+		</seq>
+	</body>
+</smil>
